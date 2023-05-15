@@ -59,7 +59,6 @@ const Nav = () => {
                   Sign In
                 </button>
               ))}
-            <Link href="/login" className="flex gap-2 flex-center"></Link>
           </>
         )}
       </div>
@@ -117,7 +116,6 @@ const Nav = () => {
                   Sign In
                 </button>
               ))}
-            <Link href="/login" className="flex gap-2 flex-center"></Link>
           </>
         )}
       </div>
